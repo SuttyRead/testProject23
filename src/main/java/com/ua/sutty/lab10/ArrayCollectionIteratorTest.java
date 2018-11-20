@@ -6,17 +6,16 @@ import interfaces.task5.ArrayIterator;
 import org.junit.Before;
 import org.junit.Test;
 
+
 import java.util.NoSuchElementException;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
 
 public class ArrayCollectionIteratorTest {
 
-    private ArrayCollection arrayCollection;
+    private ArrayCollection<Double> arrayCollection;
     private ArrayIterator iterator;
     private Double[] doubleArray = {1d, 2d, 3d};
-
 
     @Before
     public void before() throws Exception {
@@ -32,13 +31,20 @@ public class ArrayCollectionIteratorTest {
     }
 
     @Test
+    public void testHasNext(){
+        assertFalse("check iterator", arrayCollection.iterator().hasNext());
+        arrayCollection.add(1.0);
+        assertTrue("check iterator", iterator.hasNext());
+    }
+
+    @Test
     public void testNext(){
         try {
             iterator.next();
-        } catch (Exception e) {
-            assertEquals(NoSuchElementException.class, e.getClass());
-        }
+            fail("Don't have next element");
+        }catch (NoSuchElementException e){
 
+        }
     }
 
 }
