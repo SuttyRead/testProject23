@@ -47,4 +47,13 @@ public class ArrayCollectionIteratorTest {
         }
     }
 
+    @Test
+    public void testRemoveWhenEmpty() {
+        try {
+            arrayCollection.iterator().remove();
+            fail("should be throw IllegalStateException");
+        } catch (IllegalStateException e) {
+        }
+    }
+
 }

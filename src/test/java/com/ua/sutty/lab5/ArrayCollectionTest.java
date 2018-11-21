@@ -10,7 +10,6 @@ import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 
 import com.ua.sutty.lab11.LoggingArrayCollectionImpl;
-import com.ua.sutty.lab11.LoggingArrayCollectionImpl2;
 import interfaces.task5.ArrayCollection;
 import interfaces.task5.ArrayIterator;
 

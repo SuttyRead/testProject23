@@ -13,9 +13,7 @@ import java.util.NoSuchElementException;
 
 public class LoggingArrayCollectionImpl<E> implements ArrayCollection<E>, LoggingArrayCollection<E> {
 
-//    private static final org.apache.log4j.Logger LOGGER1 = org.apache.log4j.Logger.getLogger(LoggingArrayCollectionImpl.class);
-
-    protected final Logger LOGGER = LoggerFactory
+    private final Logger LOGGER = LoggerFactory
         .getLogger(LoggingArrayCollectionImpl.class.getName());
 
     @Override

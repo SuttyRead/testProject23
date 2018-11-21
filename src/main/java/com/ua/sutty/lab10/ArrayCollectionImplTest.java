@@ -66,9 +66,8 @@ public class ArrayCollectionImplTest {
     public void retainAll() {
         arrayCollection.setArray(array);
         Integer[] array2 = {1, 2, 4};
-        arrayCollection.retainAll(Arrays.asList(array2));
-        Assert.assertEquals("check collection after", 2,
-            arrayCollection.size());
+        Assert.assertTrue(arrayCollection.retainAll(Arrays.asList(array2)));
+
     }
 
     @Test

@@ -7,30 +7,40 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 import junit.framework.TestCase;
 
-
 public class ArrayIteratorImplTest extends TestCase {
 
-    private ArrayCollection<Integer> arrayCollection = null;
-    private Integer[] array = {1, 2, 3};
+    private ArrayCollection<Double> arrayCollection;
+    private ArrayIterator iterator;
+    private Double[] doubleArray = {1d, 2d, 3d};
 
     public void setUp() throws Exception {
         arrayCollection = new ArrayCollectionImpl<>();
+        iterator = (ArrayIterator) arrayCollection.iterator();
     }
 
     public void tearDown() throws Exception {
-        arrayCollection.setArray(new Integer[0]);
+        arrayCollection.setArray(doubleArray);
+    }
+
+    public void testNextAfterSetArray(){
+        arrayCollection.setArray(doubleArray);
+        assertEquals(1.0, iterator.next());
+        assertTrue(iterator.hasNext());
     }
 
     public void testHasNext() {
         assertFalse("check iterator", arrayCollection.iterator().hasNext());
-        arrayCollection.setArray(array);
-        assertTrue("check iterator", arrayCollection.iterator().hasNext());
+        arrayCollection.add(1.0);
+        assertTrue("check iterator", iterator.hasNext());
     }
 
     public void testNext() {
-        arrayCollection.setArray(array);
-        ArrayIterator iterator = (ArrayIterator) arrayCollection.iterator();
-        assertEquals("check iterator", array[0], iterator.next());
+        try {
+            iterator.next();
+            fail("Don't have next element");
+        }catch (NoSuchElementException e){
+
+        }
     }
 
     public void testNextWhenCollectionEmpty() {
@@ -44,12 +54,12 @@ public class ArrayIteratorImplTest extends TestCase {
         }
     }
 
-    public void testRemoveBeforeNext() {
+    public void testRemoveWhenEmpty() {
         try {
             arrayCollection.iterator().remove();
             fail("should be throw IllegalStateException");
         } catch (IllegalStateException e) {
-            //
+
         }
     }
 }
