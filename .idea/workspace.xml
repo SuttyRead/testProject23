@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111ff201-6562-4c52-9fd7-be382152b8bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ua/sutty/test/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/interfaces_2_0_2_1_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log_file.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayCollectionImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayCollectionImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayCollectionIteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayCollectionIteratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayIteratorImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayIteratorImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollectionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollectionImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollectionImpl2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/log_file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/OrderLogic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/PathClassLoaderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/PathClassLoaderImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionImplTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,66 +32,61 @@
     <session id="1188573187">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="5" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="23" />
-          <entry key="java" value="369" />
-          <entry key="log" value="12" />
-          <entry key="properties" value="4" />
+          <entry key="java" value="399" />
+          <entry key="log" value="14" />
+          <entry key="properties" value="5" />
           <entry key="txt" value="12" />
-          <entry key="xml" value="9" />
+          <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="23" />
-          <entry key="JAVA" value="369" />
-          <entry key="Log" value="10" />
+          <entry key="JAVA" value="399" />
+          <entry key="Log" value="12" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Properties" value="4" />
-          <entry key="XML" value="9" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="16411" />
+          <entry key="java" value="16783" />
           <entry key="properties" value="13" />
-          <entry key="txt" value="87" />
-          <entry key="xml" value="30" />
+          <entry key="txt" value="104" />
+          <entry key="xml" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16411" />
-          <entry key="PLAIN_TEXT" value="92" />
+          <entry key="JAVA" value="16783" />
+          <entry key="PLAIN_TEXT" value="109" />
           <entry key="Properties" value="13" />
-          <entry key="XML" value="30" />
+          <entry key="XML" value="33" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,9 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab4/MapUtilsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab4/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab4/MapUtilsImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab4/CollectionUtilsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayIteratorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab5/ArrayCollectionImpl.java" />
@@ -148,26 +140,29 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab7/task2/CopyTaskImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/CyclicCollectionImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/Load.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/PathClassLoaderImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/PathClassLoaderImpl2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab1/task_1/Matrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab4/CollectionUtilsImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab5/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionImplTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollectionImpl2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/OrderLogic.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/log_file.log" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollectionImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayCollectionImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayCollectionIteratorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/JunitTesterImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayIteratorImplTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/Main.java" />
+        <option value="$PROJECT_DIR$/log_file.log" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollection2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/test/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/PathClassLoaderImpl.java" />
       </list>
     </option>
   </component>
@@ -197,7 +192,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="293" />
     <option name="y" value="53" />
-    <option name="width" value="1400" />
+    <option name="width" value="1390" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -226,6 +221,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,7 +263,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sutty" type="462c0819:PsiDirectoryNode" />
-              <item name="lab10" type="462c0819:PsiDirectoryNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
@@ -275,7 +272,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sutty" type="462c0819:PsiDirectoryNode" />
-              <item name="lab11" type="462c0819:PsiDirectoryNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="task_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sutty" type="462c0819:PsiDirectoryNode" />
+              <item name="lab8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sutty" type="462c0819:PsiDirectoryNode" />
+              <item name="lab10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
@@ -305,20 +321,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sutty" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sutty" type="462c0819:PsiDirectoryNode" />
+              <item name="lab8" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542788266394" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542904542754" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="/tmp/dest.dat" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -353,13 +376,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.lab11.Main" />
+  <component name="RunManager" selected="JUnit.SerializableUtilsTest">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.test.HelloWorld" />
       <module name="testProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ua.sutty.lab11.*" />
+          <option name="PATTERN" value="com.ua.sutty.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,80 +416,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayIteratorImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.lab8.Test" />
       <module name="testProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ua.sutty.lab10.*" />
+          <option name="PATTERN" value="com.ua.sutty.lab8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ua.sutty.lab10" />
-      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.lab10.ArrayIteratorImplTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayIteratorImplTest.testNewNext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CyclicCollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ua.sutty.lab10.*" />
+          <option name="PATTERN" value="com.ua.sutty.lab8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ua.sutty.lab10" />
-      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.lab10.ArrayIteratorImplTest" />
-      <option name="METHOD_NAME" value="testNewNext" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.ua.sutty.lab8" />
+      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.lab8.CyclicCollectionTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayIteratorImplTest.testRemoveWhenEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CyclicItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ua.sutty.lab10.*" />
+          <option name="PATTERN" value="com.ua.sutty.lab8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ua.sutty.lab10" />
-      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.lab10.ArrayIteratorImplTest" />
-      <option name="METHOD_NAME" value="testRemoveWhenEmpty" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.ua.sutty.lab8" />
+      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.lab8.CyclicItemTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JunitTesterImpl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SerializableUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ua.sutty.lab10.*" />
+          <option name="PATTERN" value="com.ua.sutty.lab8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ua.sutty.lab10" />
-      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.lab10.JunitTesterImpl" />
+      <option name="PACKAGE_NAME" value="com.ua.sutty.lab8" />
+      <option name="MAIN_CLASS_NAME" value="com.ua.sutty.lab8.SerializableUtilsTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.JunitTesterImpl" />
-      <item itemvalue="JUnit.ArrayIteratorImplTest" />
-      <item itemvalue="JUnit.ArrayIteratorImplTest.testRemoveWhenEmpty" />
-      <item itemvalue="JUnit.ArrayIteratorImplTest.testNewNext" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="JUnit.CyclicCollectionTest" />
+      <item itemvalue="JUnit.CyclicItemTest" />
+      <item itemvalue="JUnit.SerializableUtilsTest" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.JunitTesterImpl" />
-        <item itemvalue="JUnit.ArrayIteratorImplTest" />
-        <item itemvalue="JUnit.ArrayIteratorImplTest.testNewNext" />
-        <item itemvalue="JUnit.ArrayIteratorImplTest.testRemoveWhenEmpty" />
+        <item itemvalue="JUnit.SerializableUtilsTest" />
+        <item itemvalue="JUnit.CyclicItemTest" />
+        <item itemvalue="JUnit.CyclicCollectionTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -509,39 +527,46 @@
       <option name="project" value="LOCAL" />
       <updated>1542736819058</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="some fix unit">
+      <created>1542788362338</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542788362338</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayCollectionIteratorTest_testRemoveWhenEmpty - 2018.11.21 at 10h 05m 35s.xml">
-      <configuration name="ArrayCollectionIteratorTest.testRemoveWhenEmpty" configurationId="JUnit" />
+    <history-entry file="ArrayCollectionImplTest - 2018.11.21 at 11h 42m 30s.xml">
+      <configuration name="ArrayCollectionImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitTesterImpl - 2018.11.21 at 10h 06m 23s.xml">
-      <configuration name="JunitTesterImpl" configurationId="JUnit" />
+    <history-entry file="ArrayCollectionTest - 2018.11.21 at 11h 42m 38s.xml">
+      <configuration name="ArrayCollectionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitTesterImpl - 2018.11.21 at 10h 08m 29s.xml">
-      <configuration name="JunitTesterImpl" configurationId="JUnit" />
+    <history-entry file="ArrayIteratorTest - 2018.11.21 at 11h 42m 42s.xml">
+      <configuration name="ArrayIteratorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayIteratorImplTest - 2018.11.21 at 10h 09m 06s.xml">
-      <configuration name="ArrayIteratorImplTest" configurationId="JUnit" />
+    <history-entry file="ArrayIteratorTest - 2018.11.21 at 11h 43m 07s.xml">
+      <configuration name="ArrayIteratorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitTesterImpl - 2018.11.21 at 10h 09m 38s.xml">
-      <configuration name="JunitTesterImpl" configurationId="JUnit" />
+    <history-entry file="CyclicCollectionTest - 2018.11.22 at 18h 21m 19s.xml">
+      <configuration name="CyclicCollectionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayIteratorImplTest - 2018.11.21 at 10h 13m 38s.xml">
-      <configuration name="ArrayIteratorImplTest" configurationId="JUnit" />
+    <history-entry file="CyclicItemTest - 2018.11.22 at 18h 21m 24s.xml">
+      <configuration name="CyclicItemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayIteratorImplTest_testRemoveWhenEmpty - 2018.11.21 at 10h 15m 20s.xml">
-      <configuration name="ArrayIteratorImplTest.testRemoveWhenEmpty" configurationId="JUnit" />
+    <history-entry file="SerializableUtilsTest - 2018.11.22 at 18h 21m 29s.xml">
+      <configuration name="SerializableUtilsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayIteratorImplTest_testNewNext - 2018.11.21 at 10h 16m 33s.xml">
-      <configuration name="ArrayIteratorImplTest.testNewNext" configurationId="JUnit" />
+    <history-entry file="CyclicCollectionTest - 2018.11.22 at 18h 35m 25s.xml">
+      <configuration name="CyclicCollectionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayIteratorImplTest - 2018.11.21 at 10h 17m 12s.xml">
-      <configuration name="ArrayIteratorImplTest" configurationId="JUnit" />
+    <history-entry file="CyclicItemTest - 2018.11.22 at 18h 35m 30s.xml">
+      <configuration name="CyclicItemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitTesterImpl - 2018.11.21 at 10h 17m 15s.xml">
-      <configuration name="JunitTesterImpl" configurationId="JUnit" />
+    <history-entry file="SerializableUtilsTest - 2018.11.22 at 18h 35m 35s.xml">
+      <configuration name="SerializableUtilsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -555,9 +580,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28334257" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31045932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -571,10 +595,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991699" weight="0.32" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4997233" weight="0.32815966" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4997233" weight="0.32777777" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5002767" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.3292683" />
+      <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.3288889" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32777777" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24958494" />
@@ -595,41 +619,14 @@
     <MESSAGE value="add log4j" />
     <MESSAGE value="add some test in lab 10" />
     <MESSAGE value="some" />
-    <option name="LAST_COMMIT_MESSAGE" value="some" />
+    <MESSAGE value="some fix unit" />
+    <option name="LAST_COMMIT_MESSAGE" value="some fix unit" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab7/task2/ExecutorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab7/task2/TaskImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab7/task2/SumTaskImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab7/task2/TasksStorageImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab7/task2/CopyTaskImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -693,13 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/CyclicCollectionImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="89" column="42" lean-forward="true" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/Load.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/CyclicItemImpl.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -719,48 +709,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/PathClassLoaderImpl2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/PathClassLoaderImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/SerializableUtilsImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab8/CyclicCollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab8/CyclicItemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab8/SerializableUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1830">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab1/task_2/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -810,97 +758,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayIteratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/OrderLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/interfaces-2.0.2(1).jar!/interfaces/logging/LoggingArrayCollection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollectionImpl2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/interfaces-2.0.2(1).jar!/interfaces/junit/JunitTester.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab5/ArrayCollectionImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-179">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="method#ArrayCollectionImpl#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#ArrayCollectionImpl#1;class#ArrayCollectionImpl#0" />
-            <element signature="method#increaseCapacity#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#trimToSizeArray#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#setArray#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#indexOf#0;class#ArrayCollectionImpl#0" />
-            <element signature="e#2152#2153#0" expanded="true" />
-            <element signature="e#2200#2201#0" expanded="true" />
-            <element signature="method#toArray#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#add#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#shiftToLeft#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#remove#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#removeIndex#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#addAll#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#clear#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#retainAll#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#removeAll#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#containsAll#0;class#ArrayCollectionImpl#0" />
-            <element signature="method#toArray#1;class#ArrayCollectionImpl#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/OrderLogic.java" />
+    <entry file="jar://$USER_HOME$/Desktop/interfaces-2.0.2(1).jar!/interfaces/logging/LoggingArrayCollection.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollectionImpl2.java" />
+    <entry file="jar://$USER_HOME$/Desktop/interfaces-2.0.2(1).jar!/interfaces/junit/JunitTester.class" />
     <entry file="jar://$USER_HOME$/Desktop/java/jdk1.8.0_191/src.zip!/java/util/NoSuchElementException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -915,30 +776,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollectionImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1680">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#increaseCapacity#0;class#LoggingArrayCollectionImpl#0" />
-            <element signature="method#trimToSizeArray#0;class#LoggingArrayCollectionImpl#0" />
-            <element signature="method#indexOf#0;class#LoggingArrayCollectionImpl#0" />
-            <element signature="method#shiftToLeft#0;class#LoggingArrayCollectionImpl#0" />
-            <element signature="method#remove#0;class#LoggingArrayCollectionImpl#0" />
-            <element signature="method#removeIndex#0;class#LoggingArrayCollectionImpl#0" />
-            <element signature="method#toArray#1;class#LoggingArrayCollectionImpl#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/ArrayCollectionImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
           <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -946,9 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -956,9 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="50" selection-start-line="50" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -966,9 +801,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/SerializableUtilsImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -976,10 +829,136 @@
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
       <provider editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollectionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" selection-start-line="28" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayIteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+        <state relative-caret-position="195">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab11/LoggingArrayCollection2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/test/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab5/ArrayCollectionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab5/ArrayCollectionImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/CyclicCollectionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/PathClassLoaderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab1/task_1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab10/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ua/sutty/lab8/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab8/CyclicCollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab8/CyclicItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ua/sutty/lab8/SerializableUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
         </state>
       </provider>
     </entry>
@@ -1060,7 +1039,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>interfaces-2.0.2(1)</last-edited>
+          <last-edited>interfaces-2.0.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

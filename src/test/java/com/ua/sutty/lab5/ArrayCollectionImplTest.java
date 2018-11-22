@@ -1,5 +1,6 @@
 package com.ua.sutty.lab5;
 
+import com.ua.sutty.lab11.LoggingArrayCollection2;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -10,13 +11,13 @@ import static org.junit.Assert.*;
 
 public class ArrayCollectionImplTest {
 
-    private ArrayCollectionImpl<Double> arrayCollection;
+    private LoggingArrayCollection2<Object> arrayCollection;
     private Integer[] doubles = new Integer[] {1, 2, 3};
     private List<Double> arrayList = Arrays.asList(1.4, 1.6, 1.8, 1.6);
 
     @Before
     public void before() throws Exception {
-        arrayCollection = new ArrayCollectionImpl<>();
+        arrayCollection = new LoggingArrayCollection2<>();
     }
 
     @Test

@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        LoggingArrayCollectionImpl<Integer> loggingArrayCollection = new LoggingArrayCollectionImpl<>();
+        LoggingArrayCollection2<Integer> loggingArrayCollection = new LoggingArrayCollection2<>();
         System.out.println(loggingArrayCollection.add(1));
 //        loggingArrayCollection.size();
 //        loggingArrayCollection.size();

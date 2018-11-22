@@ -1,3 +1,170 @@
-TRACE [main] 2018-11-21 10:17:46.900  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
-TRACE [main] 2018-11-21 10:17:46.901  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
-TRACE [main] 2018-11-21 10:17:46.902  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Retain all collection
+TRACE [main] 2018-11-21 11:40:27.246  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:40:27.247  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Retain all collection
+TRACE [main] 2018-11-21 11:40:31.073  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:40:31.074  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Retain all collection
+TRACE [main] 2018-11-21 11:42:30.011  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [main] 2018-11-21 11:42:30.012  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [main] 2018-11-21 11:42:30.012  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:30.013  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [main] 2018-11-21 11:42:30.013  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove object with collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get size collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove object with collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.014  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get size collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get size collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get size collection
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [main] 2018-11-21 11:42:30.015  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove all object with collection
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get size collection
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove object with collection
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Set array in collection
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+ERROR [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Flew out NullPointerException
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Set array in collection
+TRACE [main] 2018-11-21 11:42:30.016  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:30.017  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [main] 2018-11-21 11:42:30.017  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on empty
+TRACE [main] 2018-11-21 11:42:30.017  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [main] 2018-11-21 11:42:30.017  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on empty
+TRACE [main] 2018-11-21 11:42:37.904  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.912  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [main] 2018-11-21 11:42:37.914  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.914  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.914  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Lead collection to array
+TRACE [main] 2018-11-21 11:42:37.914  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.927  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.927  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.928  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.928  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.928  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.928  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.928  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.928  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.928  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.928  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.929  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.929  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.929  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.929  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Clear collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.929  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.929  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.929  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.930  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get size collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.930  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.930  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get size collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.930  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.930  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get size collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.930  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Clear collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.930  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get size collection
+TRACE [main] 2018-11-21 11:42:37.930  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.931  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [Time-limited test] 2018-11-21 11:42:37.931  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.931  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [Time-limited test] 2018-11-21 11:42:37.931  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.931  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.932  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.932  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Set array in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.932  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.932  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.932  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.932  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.933  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.933  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.933  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Retain all collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.933  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Retain all collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.933  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [Time-limited test] 2018-11-21 11:42:37.933  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.933  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.933  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.934  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.934  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Contains all element two collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.934  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [Time-limited test] 2018-11-21 11:42:37.934  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [Time-limited test] 2018-11-21 11:42:37.934  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [Time-limited test] 2018-11-21 11:42:37.934  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.934  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Contains all element two collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.934  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [main] 2018-11-21 11:42:37.936  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.937  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Contains all element two collection
+ERROR [Time-limited test] 2018-11-21 11:42:37.938  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - String == null, null pointer exception
+TRACE [main] 2018-11-21 11:42:37.938  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.939  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Retain all collection
+ERROR [Time-limited test] 2018-11-21 11:42:37.939  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - String == null, null pointer exception
+TRACE [main] 2018-11-21 11:42:37.939  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.939  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.939  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [Time-limited test] 2018-11-21 11:42:37.940  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on contains
+TRACE [Time-limited test] 2018-11-21 11:42:37.940  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.940  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.940  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.940  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.940  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.941  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+ERROR [Time-limited test] 2018-11-21 11:42:37.941  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - This is the same collection
+TRACE [main] 2018-11-21 11:42:37.941  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.942  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.942  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.942  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.945  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.945  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Set array in collection
+ERROR [Time-limited test] 2018-11-21 11:42:37.945  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Flew out NullPointerException
+TRACE [main] 2018-11-21 11:42:37.945  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on empty
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on empty
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Clear collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.946  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on empty
+TRACE [main] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove object with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove object with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove object with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.947  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.948  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize iterator
+TRACE [main] 2018-11-21 11:42:37.948  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.948  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add object in collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.948  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Add all element with first collection to second collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.948  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove all object with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.948  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove all object with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.949  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Check on empty
+TRACE [Time-limited test] 2018-11-21 11:42:37.949  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [Time-limited test] 2018-11-21 11:42:37.949  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Get array with collection
+TRACE [main] 2018-11-21 11:42:37.949  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Initialize collection without param
+TRACE [Time-limited test] 2018-11-21 11:42:37.952  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - Remove all object with collection
+ERROR [Time-limited test] 2018-11-21 11:42:37.952  com.ua.sutty.lab11.LoggingArrayCollectionImpl  - String == null, null pointer exception
